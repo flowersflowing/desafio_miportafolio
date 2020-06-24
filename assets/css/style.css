@@ -1,0 +1,40 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+    background-image: url(../img/bg_hero.png);
+    height: 40rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+hr {
+    background-color: black;
+    width: 10%;
+}
+
+.color-morado {
+    background-color: #660066;
+}
+
+.experiencia-anterior {
+    color: #660066;    
+}
+
+.encabezado {
+    padding-top: 400px;
+}
+
+.about-title {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.about-p {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 3;
+}
+
+.card-text {
+    font-family: 'Open Sans', sans-serif; 
+}
