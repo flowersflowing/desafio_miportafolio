@@ -1,5 +1,6 @@
 body {
     font-family: 'Oswald', sans-serif;
+    color: #373A3C;
 }
 
 header {
@@ -7,6 +8,10 @@ header {
     height: 40rem;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+h1 {
+    font-size: 72pt;
 }
 
 hr {
@@ -23,7 +28,7 @@ hr {
 }
 
 .encabezado {
-    padding-top: 400px;
+    padding-top: 300px;
 }
 
 .about-title {
@@ -36,5 +41,5 @@ hr {
 }
 
 .card-text {
-    font-family: 'Open Sans', sans-serif; 
+    font-family: 'Open Sans', sans-serif;
 }
